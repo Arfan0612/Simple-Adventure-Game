@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1671306554 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw3\cw3.cpp
+	"CW3.h"
+
+1671306532 c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw3\cw3.h
+	<iostream>
+	<string>
+	<cmath>
+	<time.h>
+	<iomanip>
+
+1671306440 source:c:\users\arfan danial\onedrive - university of nottingham malaysia\year 2\software engineering\eeee2065_cw3\main.cpp
+	"CW3.h"
+
