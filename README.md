@@ -4,7 +4,7 @@ In this adventure game there are a total of 9 rooms that the player can explore 
 
 ![image](https://github.com/Arfan0612/Simple-Adventure-Game/assets/94776851/ff48d1bb-63e5-4868-a604-e6ab43ae3928)
 
-Player will be asked for user input for their next course of action. The player’s health and experience (EXP) will be shown to the player each time the game ask for user input.
+Player will be asked for user input for their next course of action. The player’s health and experience (EXP) will be shown to the player each time the game ask for user input. The class made for this game is in **CW3.cpp**.
 
 ![image](https://github.com/Arfan0612/Simple-Adventure-Game/assets/94776851/f81c2ff9-5370-48b2-9146-9c5a864e40af)
 
